@@ -1,0 +1,15 @@
+h1{
+    background-color: rgb(231, 148, 162);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+table{
+   border-color:  2px solid black;
+   align-items: center;
+   border: 2px solid black;
+}
+image{
+    align-items: center;
+    justify-items: center;
+}
