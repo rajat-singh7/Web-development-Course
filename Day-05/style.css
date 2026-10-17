@@ -1,0 +1,21 @@
+p{
+    background-color: aqua;
+}
+a{
+    background-color: brown;
+}
+div{
+    background-color: rgb(179, 215, 143);
+}
+span{
+    background-color: darkorchid;
+}
+.red{
+    color: crimson;
+}
+.yellow{
+    background-color: chartreuse;
+}
+#seconddiv{
+    background-color: indianred;
+}
